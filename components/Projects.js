@@ -11,8 +11,8 @@ export default function Projects() {
           src="https://raw.githubusercontent.com/soyarnold/homez/main/homez-preview.png"
           alt="HOMEZ app screenshot"
           title="HOMEZ"
-          description="TRAVELZ is my own version of an online marketplace for vacation rentals. The front-end interacts with APIs I made using Django REST framework."
-          stack="Stack: React, Tailwind, Python, Django"
+          description="HOMEZ is my own version of an online marketplace for recently sold homes. The front-end fetches the most recent $1 million+ home sales in San Francisco, CA."
+          stack="Stack: React, Tailwind, Vercel, US Real Estate API"
           code="https://github.com/soyarnold/moviez"
           demo="https://moviez-murex.vercel.app/"
         />
