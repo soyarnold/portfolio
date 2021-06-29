@@ -29,7 +29,7 @@ export default function Projects() {
           src="https://github.com/soyarnold/compound-interest-calculator/blob/main/compound-interest-calculator.png?raw=true"
           alt="JavaServer Page screenshot"
           title="Compound Interest"
-          description="The Compound Interest Calculator takes in user input to calculate the addition of interest to the principal sum of a loan or deposit."
+          description="The Compound Interest Calculator takes in user input to calculate the addition of interest to the principal sum of a loan or deposit. Displayed on user-friendly GUI."
           stack="Stack: Java, Servlets, JSP, Tailwind"
           code="https://github.com/soyarnold/compound-interest-calculator"
           demo="https://github.com/soyarnold/compound-interest-calculator"
