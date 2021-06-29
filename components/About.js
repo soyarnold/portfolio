@@ -11,14 +11,14 @@ export default function About() {
         <p className="text-gray-400 lg:-ml-24">
           My name is Arnold Perez and I am currently an undergraduate student
           seeking a software engineering internship/full-time job. Previously,
-          my career consisted of marketing after graduating from the University
-          of Texas at Austin with a Bachelor of Science in Public Relations.
-          After a few years in the industry, I decided to go back to school to
-          pursue a Bachelor of Science in Computer Science from the University
-          of Texas at Dallas and I have not looked back! It was my curiosity in
-          how we can use technology to better our lives that led me to this
-          career change. I have quickly immersed myself into the world of
-          software engineering by becoming adept with programming languages, app
+          my career was in marketing after graduating from the University of
+          Texas at Austin with a Bachelor of Science in Public Relations. After
+          a few years in the industry, I decided to go back to school to pursue
+          a Bachelor of Science in Computer Science from the University of Texas
+          at Dallas and I have not looked back! It was my curiosity in how we
+          can use technology to better our lives that led me to this career
+          change. I have quickly immersed myself into the world of software
+          engineering by becoming adept with programming languages, app
           development and the software development life cycle.
         </p>
       </div>
