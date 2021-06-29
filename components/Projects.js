@@ -10,7 +10,7 @@ export default function Projects() {
         <Card
           src="https://raw.githubusercontent.com/soyarnold/homez/main/homez-preview.png"
           alt="HOMEZ app screenshot"
-          title="HOMEZ"
+          title="Homez"
           description="HOMEZ is my own version of an online marketplace for recently sold homes. The front-end fetches the most recent $1 million+ home sales in San Francisco, CA."
           stack="Stack: React, Tailwind, Vercel, US Real Estate API"
           code="https://github.com/soyarnold/homez"
