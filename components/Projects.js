@@ -13,8 +13,8 @@ export default function Projects() {
           title="HOMEZ"
           description="HOMEZ is my own version of an online marketplace for recently sold homes. The front-end fetches the most recent $1 million+ home sales in San Francisco, CA."
           stack="Stack: React, Tailwind, Vercel, US Real Estate API"
-          code="https://github.com/soyarnold/moviez"
-          demo="https://moviez-murex.vercel.app/"
+          code="https://github.com/soyarnold/homez"
+          demo="https://homez-psi.vercel.app/"
         />
         <Card
           src="https://raw.githubusercontent.com/soyarnold/moviez/main/MOVIEZ-screenshot.png"
