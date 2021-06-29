@@ -52,9 +52,9 @@ export default function Header() {
         <a href="https://www.linkedin.com/in/arnold-perez/" target="blank">
           <AiFillLinkedin />
         </a>
-        <a href="https://twitter.com/arnoldperez" target="blank">
+        {/* <a href="https://twitter.com/arnoldperez" target="blank">
           <AiFillTwitterCircle />
-        </a>
+        </a> */}
       </div>
     </header>
   );
