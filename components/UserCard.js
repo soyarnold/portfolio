@@ -5,7 +5,7 @@ export default function UserCard() {
         <div className="md:-ml-32" style={{ clipPath: "url(#roundedPolygon)" }}>
           <img
             className="w-auto h-48"
-            src="https://pbs.twimg.com/profile_images/1328511762447077377/_syMKOw__400x400.jpg"
+            src="https://media-exp3.licdn.com/dms/image/C4E03AQHiLNSXz5uCVg/profile-displayphoto-shrink_800_800/0/1617428469766?e=1630540800&v=beta&t=_jc-_f7qvJNw2HSTbBTgabKnYmgkEPkQ67kJBevqxMo"
             alt="Arnold Perez"
           />
         </div>
