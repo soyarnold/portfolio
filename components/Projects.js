@@ -17,6 +17,15 @@ export default function Projects() {
           demo="https://homez-psi.vercel.app/"
         />
         <Card
+          src="/images/candle-shop-screenshot.png"
+          alt="Candle Shop screenshot"
+          title="Candle Shop"
+          description="Candle Shop is an e-commerce web application showcasing product filters, sorting, add and remove actions, and how to manage the applications state and local storage."
+          stack="Stack: JavaScript, React, Vercel"
+          code="https://github.com/soyarnold/candle-shopping-cart"
+          demo="https://candle-shopping-cart.vercel.app/"
+        />
+        <Card
           src="https://raw.githubusercontent.com/soyarnold/moviez/main/MOVIEZ-screenshot.png"
           alt="MOVIEZ app screenshot"
           title="Moviez"
@@ -34,17 +43,6 @@ export default function Projects() {
           code="https://github.com/soyarnold/compound-interest-calculator"
           demo="https://github.com/soyarnold/compound-interest-calculator"
         />
-        {/* <Card
-          src="https://images.pexels.com/photos/326508/pexels-photo-326508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-          alt="Sunset in the mountains"
-          title="WORKZ"
-          description="Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Voluptatibus quia! Maiores et perferendis eaque,
-            exercitationem praesentium nihil. Voluptatibus quia!"
-          stack="Stack: Mongo, Express, React, Node"
-          code="https://github.com/soyarnold/moviez"
-          demo="https://moviez-murex.vercel.app/"
-        /> */}
       </div>
     </section>
   );

@@ -6,8 +6,7 @@ export default function Hero() {
       </h1>
       <p className="font-hero">
         Hello! My name is Arnold Perez and I am a full stack developer based in
-        Dallas, TX. I mostly code in Java, JavaScript, and Python. Web app made
-        by me!
+        Dallas, TX. I mostly code in Java, JavaScript, and Python.
       </p>
       <a href="https://github.com/soyarnold" target="blank" className="block">
         <button className="rounded-3xl py-2 px-20 bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 focus:outline-none">

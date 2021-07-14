@@ -17,19 +17,19 @@ export default function Technologies() {
           Icon={FaReact}
           title="Front-End"
           experience="Experience with"
-          list="React.js and Jakarta Server Pages"
+          list="React.js, React Native and Jakarta Server Pages"
         />
         <TechItem
           Icon={FaDatabase}
           title="Back-End"
           experience="Experience with"
-          list="Django, Java EE, and PostgreSQL"
+          list="Django, Node.js, Java EE, and PostgreSQL"
         />
         <TechItem
           Icon={FaTools}
           title="UI/UX"
           experience="Experience with"
-          list="tools like Tailwind"
+          list="tools like Tailwind and Material-UI"
         />
       </div>
     </section>
